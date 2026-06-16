@@ -1,6 +1,6 @@
 {
   "test_link": {
-    "link": "https://colab.research.google.com/drive/16DyEOuvFvnz64mXB0mHLcBd1kuFUaP7a?usp=sharing"
+    "link": "https://colab.research.google.com/drive/1vs1y9O9QgdVjhPuW1oDEZPCiRORJ_0mG?usp=sharing"
   },
   "test_read_data": {
     "lengths": [
@@ -30,7 +30,7 @@
     "f1_wo_o": 0.6933477151866069
   },
   "test_glove": {
-    "f1": 0.8934167711341431,
-    "f1_wo_o": 0.6986718349371139
+    "f1": 0.914894162714783,
+    "f1_wo_o": 0.7473511745557592
   }
 }
